@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Build System ###
+target/
+
+### Personal Stuff ###
+run
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Logs ###
+*.log
